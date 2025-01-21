@@ -1,0 +1,5 @@
+train: D:\MS\Spring 2025\Dataset\train\images
+val: D:\MS\Spring 2025\Dataset\valid\images
+
+nc: 1  # Number of classes (1 for lavender balloon)
+names: ['lavender_balloon']  # Name of the class
